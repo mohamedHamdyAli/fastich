@@ -1,0 +1,34 @@
+
+# Server backups
+*.zip
+*.gz
+*.sql
+*.sql.gz
+
+# Environment
+.env
+.env.*
+
+# Runtime / cache
+storage/logs/
+storage/framework/cache/
+storage/framework/sessions/
+storage/framework/views/
+
+
+# Server backups
+*.zip
+*.gz
+*.sql
+*.sql.gz
+
+# Environment
+.env
+.env.*
+
+# Laravel runtime
+storage/logs/
+storage/framework/cache/
+storage/framework/sessions/
+storage/framework/views/
+
